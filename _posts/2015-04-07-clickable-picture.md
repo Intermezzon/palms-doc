@@ -1,5 +1,8 @@
-Lägg till klickbar bild i fråga eller annan text
-===
+---
+layout: post
+title: "Lägg till klickbar bild i fråga eller annan text"
+categories: sv
+---
 
 I exemplet kommer vi redigera texten i en fråga, men det fungerar på samma 
 sätt på andra ställen där man kan redigera text.
